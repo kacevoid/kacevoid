@@ -1,4 +1,6 @@
-### Hi there 👋
+# kacevoid
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kacevoid&theme=bear&border_radius=40&date_format=%5BY%20%5DM%20j&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 <!--
 **kacevoid/kacevoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
