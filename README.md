@@ -4,7 +4,7 @@ Howdy. I'm a semi-new developer with a ton of hardware, art, music production, a
 
 Burned out and health nuked from being abused in the service industry, and failing miserably at most adult jobs, I turned back to beloved computers, thinking surely, learning to actually code will free me from my capitalist chains! But no, it wasn't meant to be.
 
-I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co=opted open source scam going on around here.
+I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co-opted open source scam going on around here.
 
 So I'm riding this out and learning the oldest, closest to the metal, and most reliable languages I can find, and dodging the new era of web obsession as best I can.
 
