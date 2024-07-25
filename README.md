@@ -2,13 +2,13 @@
 
 Howdy. I'm a semi-new developer with a ton of hardware, art, music production, and design experience. I actually had a life before coming back to computer science as an adult, but spent most of my adolescence playing at being a hardware hacker and digital troublemaker.
 
-Burned out and health nuked from being abused in the service industry, and failing miserably at most adult jobs, I turned back to beloved computers, thinking surely, learning to actually code will free me from my capitalist chains! But no, it wasn't meant to be.
+Burned out and health nuked from being abused in the service industry, and a brief stint in the most cursed Help Desk, I turned back to beloved computers, thinking surely, learning to actually code will free me from my capitalist chains! But no, it wasn't meant to be. The tech industry is not okay.
 
-I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co-opted open source scam going on around here.
+I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co-opted open source scam going on around here, or all the hackers getting Fed'd up, firewalled, or jailed, leaving only the most annoying neo-liberal manageraial class vibe ruling. I'm good thanks.
 
 So I'm riding this out and learning the oldest, closest to the metal, and most reliable languages I can find, and dodging the new era of web obsession as best I can.
 
-I like to break things and put them back together. Expect reverse-engineering projects, 
+I like to break things and put them back together. Expect reverse-engineering projects, game demos, some assets and design plugins, linux nerdity, and ancient software revived.
 
 >*Updating* ...**80%**
 
