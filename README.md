@@ -1,20 +1,20 @@
 # kacevoid
 
-Howdy. I'm a semi-new developer with a ton of hardware, art, music production, and design experience. I actually had a life before coming back to computer science as an adult, but spent most of my adolescence playing at being a hardware hacker and digital troublemaker.
+Howdy. I'm a multi-media artist and developer with some hardware, art, music production, and design experience. I actually had a life before coming back to computer science as an adult, but spent most of my adolescence playing at being a hardware hacker and digital artist before coming back to take things seriously as an adult in computer science.
 
-Burned out and health nuked from being abused in the service industry, and a brief stint in the most cursed Help Desk, I turned back to beloved computers, thinking surely, learning to actually code will free me from my capitalist chains! But no, it wasn't meant to be. The tech industry is not okay.
+Burned out and health nuked from being abused in the service industry, and a brief stint in a cursed Help Desk, I thought surely upgrading from skid to real developer would free me from my poverty-stricken class chains! But alas, it wasn't meant to be.
 
-I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co-opted open source scam going on around here, or all the hackers getting Fed'd up, firewalled, or jailed, leaving only the most annoying neo-liberal manageraial class vibe ruling. I'm good thanks.
+The tech industry I came into hoping for a job was firing off all of it's excess hiring from covid, after I had spent the time they got paid trying to slowly skill upt o get in. Is houdl have just applied, apparently.
 
-So I'm riding this out and learning the oldest, closest to the metal, and most reliable languages I can find, and dodging the new era of web obsession as best I can.
+I came into a height of AI overhype, and an obvious tech bubble not quite yet popped, and FAANG dominance enforcing a dozen interviews while farming you for ideas. Not to mention the corporate co-opted open source scam going on around here, or all the hackers getting Fed'd up, firewalled, or jailed, leaving only the most annoying neo-liberal managerial class vibed ruling. I'm good thanks.
 
-I like to break things and put them back together. Expect reverse-engineering projects, game demos, some assets and design plugins, linux nerdity, and ancient software revived.
+So I'm riding this out and learning the oldest, closest to the metal, and most reliable languages I can find, dodging the new era of web obsession as best I can, and seeing if I can fix up my hosue, and my codebase.
 
->*Updating* ...**80%**
+I like to break things and put them back together. Expect reverse-engineering projects, game demos, some assets and design plugins, linux nerdity, and ancient software revivals.Most of it will stay private until it's good and ready.
 
 - 💬 If you have any burning questions about projects, collaborations, or commissions, see my [Linktree](https://linktr.ee/KaceVOID) for my **socials**
-- 🛠️Feel free to join any of my public and open source efforts by making a **Pull Request** or submitting an **Issue** if you find that I've broken something
-- 💵 Consider [SPONSORING](https://github.com/sponsors/kacevoid) me to help me build ridiculous, surreal things
+- 🛠️Feel free to join any of my public and open source efforts by making a **Pull Request** or submitting an **Issue** if you find that I've broken something.
+- 💵 Consider [SPONSORING](https://github.com/sponsors/kacevoid) me to help me build more stuff.
 
 | Area| What I'm up to|
 |-|-|
